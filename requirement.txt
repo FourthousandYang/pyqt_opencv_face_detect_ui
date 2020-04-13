@@ -1,0 +1,4 @@
+opencv-python==3.4.1.15
+imutils
+face_recognition
+PyQt5
